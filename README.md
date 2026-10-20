@@ -1,7 +1,5 @@
 \# SOC Network Attack Detection
 
-
-
 A machine learning component for an Enterprise SOC Platform that classifies network flows as \*\*BENIGN\*\* or \*\*ATTACK\*\* using Random Forest and CICIDS2017.
 
 
