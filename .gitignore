@@ -1,0 +1,19 @@
+# Original datasets and archive
+MachineLearningCSV/
+MachineLearningCSV.zip
+
+# Generated datasets and predictions
+Data/
+
+# Saved models
+Models/
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
